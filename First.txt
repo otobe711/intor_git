@@ -6,3 +6,4 @@ GithubへPushしてみます。２回目です。改めてとらいをします�
  git commit
  git rm
  git status
+ git diff
