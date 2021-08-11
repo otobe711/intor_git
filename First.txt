@@ -5,3 +5,4 @@ GithubへPushしてみます。２回目です。改めてとらいをします�
  git add
  git commit
  git rm
+ git status
